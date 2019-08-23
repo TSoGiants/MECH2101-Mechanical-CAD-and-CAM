@@ -7,6 +7,7 @@ The focus of this course is to teach students how to produce parts, assemblies, 
 
 ### Notes from first Standing Meeting:
 Goals for students:
+
 *	Learning the language of manufacturing. (set ups, part orientation, end mill size, pockets, etc.)
 *	Be able to produce parts, assemblies, and drawings.
 *	Understand interaction between parts (assembly) – both existing parts and parts that they are designing. Steps they can take to make fewer mistakes in assembly.
@@ -15,6 +16,9 @@ Goals for students:
 *	Understanding critical dimensions.
 
 Action items:
-Dr. F - Draft tutorials for LEGO brick and chess pawn modeling in Alibre Design
+
+Dr. F - Draft tutorials for LEGO brick and chess pawn modeling in Alibre Design; draft syllabus and CLOs.
+
 Mr. Schwartz - Install Alibre Design, review Dr. F's tutorials.
+
 ALL - Brainstorm design project ideas that will form the through-line for the course.
