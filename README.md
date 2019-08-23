@@ -5,7 +5,7 @@ Outline of this course is underway; you can follow our progress Friday mornings 
 
 The focus of this course is to teach students how to produce parts, assemblies, and drawings in modern mechanical CAD software, how to consider the interaction between parts they are either drafting or designing themselves, and how to speak the language of manufacturing. Students who have completed this course should understand the basics of working around manufacturing design rules, and be able to produce simple assemblies for real-world applications.
 
-###Notes from first Standing Meeting:
+### Notes from first Standing Meeting:
 Goals for students:
 *	Learning the language of manufacturing. (set ups, part orientation, end mill size, pockets, etc.)
 *	Be able to produce parts, assemblies, and drawings.
