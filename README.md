@@ -13,3 +13,8 @@ Goals for students:
 *	Basics of stress, strain, and design constraints based around those things such as minimum feature size / wall thicknesses.
 *	Understanding / working around design rules.
 *	Understanding critical dimensions.
+
+Action items:
+Dr. F - Draft tutorials for LEGO brick and chess pawn modeling in Alibre Design
+Mr. Schwartz - Install Alibre Design, review Dr. F's tutorials.
+ALL - Brainstorm design project ideas that will form the through-line for the course.
