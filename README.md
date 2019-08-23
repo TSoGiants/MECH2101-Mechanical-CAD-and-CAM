@@ -18,7 +18,5 @@ Goals for students:
 Action items:
 
 Dr. F - Draft tutorials for LEGO brick and chess pawn modeling in Alibre Design; draft syllabus and CLOs.
-
 Mr. Schwartz - Install Alibre Design, review Dr. F's tutorials.
-
 ALL - Brainstorm design project ideas that will form the through-line for the course.
