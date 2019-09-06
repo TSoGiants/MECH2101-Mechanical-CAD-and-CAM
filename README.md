@@ -23,7 +23,7 @@ Mr. Schwartz - Install Alibre Design, review Dr. F's tutorials.
 
 ALL - Brainstorm design project ideas that will form the through-line for the course.
 
-### Notes from Standing Meeting on 9/6/19:
+### Notes from Standing Meeting (9/6/19):
 Discussed updates to Alibre Design and parameterization of models. Determined that parameterization is useful when dealing with families of parts like LEGO bricks, but probably more trouble than it is worth with many other models.
 
 Discussed the flow of the course. Should we introduce blueprint reading first, or cover the software tutorial in lesson 1 instead as planned? Ultimately decided to not let blueprint reading get in the way of introducing the software. Will introduce this later, possibly alongside discussion on variations and tolerance.
