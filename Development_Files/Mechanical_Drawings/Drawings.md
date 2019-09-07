@@ -20,7 +20,7 @@ Mechanical drawings (often called 'blueprints' or just 'prints') are a two dimen
 >
 > In some cases, drawings are even the _primary_ means of communicating design data to manufacturers; errors in the creation and interpretation of mechanical drawings can mean the difference between receiving a good part and a bad part. The ability to read, understand, and create clear, communicative drawings is a critical skill!
 
-Engineering drawings, unlike more artistic representations, are created (and interpreted) in a methodical, standardized way to show the design of a part. A good blueprint covers the design in a clear and minimal way; we'd like another individual to understand our part completely with as little information as possible. This eliminates confusion from ambiguity or contradiction.
+Engineering drawings, unlike more artistic representations, are created (and interpreted) in a methodical, standardized way. A good blueprint endeavors to illustrate a part in a clear and minimal way; we'd like another individual to understand our part completely with as little information as possible. Doing so eliminates confusion, ambiguity, and unintended contradiction.
 
 With that said, there are few hard requirements for mechanical drawings so style and personal preference are a part of every drawing. Being consistent with decisions and sticking to already established conventions should be the overall goal.
 
@@ -32,7 +32,7 @@ The process of mathematically converting a 3D object to a 2D plane is called *pr
 
 > **Aside**: The type of projection used in mechanical drawings is called *orthographic* projection. Unlike *perspective* projection (which projects in much the same ways our eyes do), orthographic projection does **not** cause object or features at a distance to appear smaller. Parallel lines in orthographic projection do not converge to vanishing points.
 >
-> These characteristics are important for blueprints since we do not want the selection of a viewpoint to alter how we perceive the part overall.
+> These characteristics are important for blueprints since we do not want the selection of a viewpoint to alter how we perceive the part overall. Lines that **are** parallel should also **look** parallel.
 
 This is all a fancy way of saying that a drawing shows one view for each of the top, sides, and bottom of a part.
 
