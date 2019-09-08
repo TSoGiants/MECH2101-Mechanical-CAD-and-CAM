@@ -15,7 +15,7 @@ Goals for students:
 *	Understanding / working around design rules.
 *	Understanding critical dimensions.
 
-Action items:
+**Action items:**
 
 Dr. F - Draft tutorials for LEGO brick and chess pawn modeling in Alibre Design; draft syllabus and CLOs.
 
@@ -30,7 +30,7 @@ Discussed the flow of the course. Should we introduce blueprint reading first, o
 
 Larger project for the course should start no later than the 3rd lesson to leave enough time. Discussed a flashlight, clock, and other household items as potential projects. Toward the end of the discussion, landed on simple toys - such as a walking wind-up toy - as good examples of mechanical mechanism that are relateable, interesting, and contain a wide array of potential talking points.
 
-Action items:
+**Action items:**
 
 Dr. F - Finish Alibre Design tutorial; draft syllabus and CLOs.
 
