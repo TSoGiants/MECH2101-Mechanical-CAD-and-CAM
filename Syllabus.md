@@ -6,7 +6,7 @@
 **Course Title:** Mechanical CAD and CAM
 
 
-**Class Schedule:** *Please see TSoG eLearning for current course offerings and class schedule.*
+**Class Schedule:**  *This course is self-guided. Please see instructor information for dedicated office hours.*
 
 ----
 ## Instructor Information
@@ -54,7 +54,6 @@ Student Outcomes broadly represent the knowledge and skills that students are ex
 >(K7) *An ability to analyze and evaluate systems, components, or processes.*
 >
 >(K8) *Understanding of ethical and professional responsibility.*
-
 
 ----
 ## Course Learning Objectives
