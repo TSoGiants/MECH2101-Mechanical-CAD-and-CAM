@@ -13,7 +13,7 @@ The distinction between mechanical *parts* vs. mechanical *assemblies* is an imp
 ![A mechanical part.](https://github.com/TSoGiants/MECH2101-Mechanical-CAD-and-CAM/blob/master/Curriculum_Files/Lesson_01/Images/figure1-1.png?raw=true)
 
 <p class="caption">Figure 1. An example of a mechanical part - a button used in the water bottle rocket trigger mechanism designed on Work in Progress.</p>
-A mechanical assembly is a collection of parts assembled to form a larger device. Each part in an assembly is typically designed and fabricated at least partiallyindepdendently from the other components in the design. Assemblies can consist of as few as two parts, or as many as hundreds or even thousands for complex mechanical systems. Figure 2 shows a simple mechanical assembly drafted in Alibre Design.
+A mechanical assembly is a collection of parts assembled to form a larger device. Each part in an assembly is typically designed and fabricated at least partially indepdendently from the other components in the design. Assemblies can consist of as few as two parts, or as many as hundreds or even thousands for complex mechanical systems. Figure 2 shows a simple mechanical assembly drafted in Alibre Design.
 
 ![A mechanical assembly.](https://github.com/TSoGiants/MECH2101-Mechanical-CAD-and-CAM/blob/master/Curriculum_Files/Lesson_01/Images/figure1-2.png?raw=true)
 
@@ -32,7 +32,7 @@ Although each piece of software has their specific features and quirks, most of 
 ## Mechanical CAM
 Computer aided manufacturing (CAM) refers to the usage of software to control manufacturing tools used to fabricate parts and assemblies. There are many different manufacturing technologies available, and each has its own set of CAM tools. Although the focus of this course will be placed on design moreso than manufacturing, we will also discuss some of the tools and techniques used in fabrication. A good mechanical design takes into consideration the materials and manufacturing processes from which it will ultimately be produced!
 
-### Rapid Prototyping
+### Conventional Manufacturing vs. Rapid Prototyping
 When we think of manufacturing, we typically think of producing items on a large scale; most dictionary definitions of *manufacture* reflect this: "the making of goods or wares by manual labor or by machinery, especially on a large scale." [2] Mass manufacture is typically accomplished with some form of mold or other intermediary manufacturing step that allows for many parts to be produced from a single template. Some examples of this are seen in the links below:
 
 * [LEGO bricks being manufactured using plastic injection molding.](https://www.youtube.com/watch?v=y1Zhpdx-XtA)
@@ -48,10 +48,11 @@ Subtractive manufacturing processes produce parts by *subtracting* material from
 
 We will cover rapid manufacturing methods in more detail in a future lesson. For now, take a look at a few examples seen in the links below:
 
-* FDM (TODO)
-* SLA
-* CNC Mill
-* Laser Cutter 
+* [3D Printing - Fused deposition modeling (FDM)](https://www.youtube.com/watch?v=5S5IpS43AZ4)
+* [3D Printing - Stereolithography (SLA)](https://www.youtube.com/watch?v=VTJq9Z5g4Jk)
+* [CNC Mill - 3 Axis](https://www.youtube.com/watch?v=Q_OZYiXcE0w)
+* [CNC Mill - 5 Axis](https://www.youtube.com/watch?v=CqePrbeAQoM)
+* [CNC Lathe](https://www.youtube.com/watch?v=kicepCM4eb4)
 
 ## In This Lesson
 In this lesson, you will learn how to accurately measure existing parts and familiarize yourself with the Alibre Design interface. We will focus specifically on the workflow for drafting parts in this lesson, with additional part modeling practice and how to produce assemblies being covered in the next lesson.
